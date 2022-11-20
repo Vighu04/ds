@@ -15,7 +15,7 @@ void main() {
     int ch;
     char choice;
     // clrscr();
-    printf("\n Name: Vighnesh Mashnu Pawar\n Roll NO.=CS2021 ");
+    printf("\n Name: Vighnesh ");
     do{
     printf("\nDeQueue Operations");
     printf("\n1.Insert from rear end  \n2.Delete element from front end");
