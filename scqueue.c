@@ -12,7 +12,7 @@ void main() {
     int ch;
     char choice;
     // clrscr();
-    printf("\n Name: Vighnesh Mashnu Pawar\n Roll NO.=CS2021 ");
+    printf("\n Name: Vighnesh  ");
     do{
     printf("\nCircular Queue Operations");
     printf("\n1.Insertion\n2.Deletion\n3.display\n");
