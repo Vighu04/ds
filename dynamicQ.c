@@ -1,5 +1,4 @@
-// Name: Vighnesh Mashnu Pawar 
-//Roll No. = CS2021
+
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
@@ -18,7 +17,7 @@ void main()
     int n, ch;
    char choice;
     // clrscr();
-   printf("\n Name: Vighnesh Mashnu Pawar\n Roll NO.=CS2021 ");
+   printf("\n Name: Vighnesh ");
     do
     {
         printf("\n\nQueue Menu\n1. insert \n2. delete\n3. Display");
