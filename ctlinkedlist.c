@@ -3,7 +3,7 @@
 #include <malloc.h>
 void main ()
 {
-    printf("\n Name: Vighnesh Mashnu Pawar\n Roll NO.=CS2021 ");
+    printf("\n Name: Vighnesh  ");
     struct node
     {
         int num;
