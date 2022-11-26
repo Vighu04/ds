@@ -23,7 +23,7 @@ void main()
     char choice;
     clrscr();
     
-    printf("\n Name: Vighnesh Mashnu Pawar\n Roll NO.=CS2021 ");
+    printf("\n Name: Vighnesh");
     create_list();
     do
     {
