@@ -19,7 +19,7 @@ void main(void) {
   int ch;
   char choice;
   clrscr();
-  printf("\n Name: Vighnesh Mashnu Pawar \n Roll NO: CS2021");
+  printf("\n Name: Vighnesh ");
   do {
     printf("\nCircular Linked List Operations");
     printf("\n1.Insert at begin\n2.insert at end\n3.Delete from begin\n4.Delete from End.");
