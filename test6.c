@@ -19,7 +19,7 @@ void main(){
     int ch;
     long digit;
      clrscr();
-    printf("\n Name:Vighnesh Mashnu Pawar\nRoll No.:CS2021");
+    printf("\n Name:Vighnesh\nRoll No.:CS2021");
     do
     {
         ch=select();
